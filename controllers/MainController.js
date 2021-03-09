@@ -7,6 +7,5 @@ export default {
     init() {
         console.log(tag, 'init()');
         MainView.setup(document.querySelector('.start'));
-
     }
 }
