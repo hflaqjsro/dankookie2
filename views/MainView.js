@@ -1,4 +1,5 @@
 import View from './View.js'
+import QuestionView from './QuestionView.js';
 
 const tag = '[MainView]';
 
@@ -20,5 +21,6 @@ MainView.hiddenStart = function (el) {
 MainView.onClick = function (e) {
     console.log('startBtn_onClick');
     this.hide();
+    QuestionView.setup(document.querySelector('.question'));
 }
 export default MainView;
