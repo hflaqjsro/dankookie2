@@ -125,7 +125,6 @@ a:hover {
 
 /* 질문지 */
 .question {
-    display: none;
     background: #FAF8F2;
     height: 1000px;
 }
@@ -224,7 +223,6 @@ a:hover {
 
 /* 베이스 - 매운맛 */
 .result02 {
-    display: none;
     background: #e36356;
     position: relative;
 }
@@ -302,7 +300,7 @@ a:hover {
 }
 
 
-// 작업중
+/* 작업중 */
 
 .wrap .result_section .result_explain .result_bar {
     overflow: hidden;
@@ -404,7 +402,6 @@ a:hover {
 
 /* 추가 - 순한맛 */
 .result {
-    display: none;
     background: #F9D567;
     position: relative;
 }
