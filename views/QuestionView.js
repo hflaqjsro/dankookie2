@@ -1,6 +1,7 @@
 import MainController from '../controllers/MainController.js';
 import View from './View.js'
 
+
 const tag = '[QuestionView]';
 
 const QuestionView = Object.create(View);
@@ -16,7 +17,8 @@ QuestionView.showQuestion = function (el) {
     this.show();
     this.ABtn.addEventListener('click', e => this.AonClick(e));
     this.BBtn.addEventListener('click', e => this.BonClick(e));
-    //MainController.next();
+    this.num = 1;
+    MainController.next();
 }
 
 QuestionView.AonClick = function() {
