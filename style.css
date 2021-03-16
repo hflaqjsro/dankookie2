@@ -1,450 +1,489 @@
 /* 기본 */
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-    font-family: 'Noto Sans KR', sans-serif;
-    font-weight: 500;
-    line-height: 150%
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Noto Sans KR", sans-serif;
+  font-weight: 500;
+  line-height: 150%;
 }
 .wrap {
-    max-width: 450px;
-    margin: 0 auto;
-    padding: 20px opx;
-    position: relative;
+  max-width: 450px;
+  margin: 0 auto;
+  padding: 20px opx;
+  position: relative;
 }
 a {
-    text-decoration: none;
-    color: #000;
+  text-decoration: none;
+  color: #000;
 }
-a:hover { 
-    color: #dadada;
-    text-decoration:none;
+a:hover {
+  color: #dadada;
+  text-decoration: none;
 }
 .logo {
-    padding: 15px;
-    text-align: center;
+  padding: 15px;
+  text-align: center;
 }
 .deco {
-    width: 50%;
-    height: 7px;
-    margin: auto;
-    border: 0px;
-    border-radius: 25px;
-    background: #000; 
+  width: 50%;
+  height: 7px;
+  margin: auto;
+  border: 0px;
+  border-radius: 25px;
+  background: #000;
 }
-
 
 .top i {
-    display: none;
+  display: none;
 }
-
-
 
 /* 시작화면 */
 
 /* 헤더 */
-.start header{ 
-    background: #F9D567;
+.start header {
+  background: #f9d567;
 }
 
 .start header .wrap .start_title .top {
-    margin: auto;
-    padding: 30px 0px;
-    text-align: right;
+  margin: auto;
+  padding: 30px 0px;
+  text-align: right;
 }
 .start header .wrap .start_title .top i {
-    font-size: 20px;
+  font-size: 20px;
 }
 
 .start header .wrap .start_title h1 {
-    text-align: center;
-    font-size: 30px;
-    font-weight: 700;
+  text-align: center;
+  font-size: 30px;
+  font-weight: 700;
 }
 .start header .wrap .start_title h2 {
-    text-align: center;
-    padding: 7px;
-    font-size: 23px;
-    font-weight: 200;
+  text-align: center;
+  padding: 7px;
+  font-size: 23px;
+  font-weight: 200;
 }
-.start header .wrap .start_img{
-    margin: 30px auto;
-    position: relative;
+.start header .wrap .start_img {
+  margin: 30px auto;
+  position: relative;
 }
 .start header .wrap .start_img img {
-    display: block;
-    margin: auto;
-    width: 100%;
-    height: 100%;
-    padding: 0px 80px;
+  display: block;
+  margin: auto;
+  width: 100%;
+  height: 100%;
+  padding: 0px 80px;
 }
-
 
 /* 섹션 */
-.start section{
-    background: #fff;
+.start section {
+  background: #fff;
 }
-.start section .wrap .start_btn{
-    padding: 20px;
-    overflow: hidden;
+.start section .wrap .start_btn {
+  padding: 20px;
+  overflow: hidden;
 }
 .start section .wrap .start_btn div {
-    width: 50%;
-    float: left;
-    padding: 10px;
+  width: 50%;
+  float: left;
+  padding: 10px;
 }
 .start section .wrap .start_btn div button {
-    width: 100%;
-    padding: 18px 10px;
-    border-radius: 10px;
-    background: #fff;
-    font-size: 20px;
-    color: #000;
-    font-weight: bolder;
+  width: 100%;
+  padding: 18px 10px;
+  border-radius: 10px;
+  background: #fff;
+  font-size: 20px;
+  color: #000;
+  font-weight: bolder;
 }
 .start section .wrap .start_btn div .start_btn_01 {
-    border: 1px solid #000;
+  border: 1px solid #000;
 }
 .start section .wrap .start_btn div .start_btn_02 {
-    border: 0px ;
-    background: #FAC92B;
+  border: 0px;
+  background: #fac92b;
 }
-.start section .wrap .logo{
-    margin: 0px;
-    padding: 0px;
+.start section .wrap .logo {
+  margin: 0px;
+  padding: 0px;
 }
 .start section .wrap .logo h3 {
-    font-size: 20px;
+  font-size: 20px;
 }
-
-
-
-
- 
 
 /* 질문지 */
 .question {
-    background: #FAF8F2;
-    height: 1000px;
+  background: #faf8f2;
+  height: 1000px;
 }
 
 .question .wrap .top {
-    margin: auto;
-    padding: 30px 0px;
-    text-align: right;
+  margin: auto;
+  padding: 30px 0px;
+  text-align: right;
 }
 .question .wrap .top i {
-    font-size: 20px;
+  font-size: 20px;
 }
 .question .wrap .mid {
-    position: relative;
+  position: relative;
 }
-    
 
 .question .wrap .mid .progress {
-    margin: auto;
-    height: 10px;
+  margin: auto;
+  height: 10px;
 }
-.question .wrap .mid .progress-bar{
-    background: #F9D567;
+.question .wrap .mid .progress-bar {
+  background: #f9d567;
 }
 .question .wrap .mid #pro_num {
-    margin: 10px 10px auto;
-    font-size: 15px;
-    color: #999999;
-    text-align: right;
+  margin: 10px 10px auto;
+  font-size: 15px;
+  color: #999999;
+  text-align: right;
 }
 .question .wrap .mid #title {
-    margin: 50px 5px 50px 30px;
-    font-size: 25px;
-    font-weight: 700;
-    color: #767676;
+  margin: 50px 5px 50px 30px;
+  font-size: 25px;
+  font-weight: 700;
+  color: #767676;
 }
 .question .wrap .mid #title::before {
-    content: "Q. ";
-    position: absolute;
-    left: -5px;
+  content: "Q. ";
+  position: absolute;
+  left: -5px;
 }
 .question .wrap .mid .qu_btn {
-    margin: 15px auto;
+  margin: 15px auto;
 }
 .question .wrap .mid .qu_btn button {
+  width: 100%;
+  height: 150px;
+  border: none;
+  border-radius: 10px;
+  background: #fff;
+  box-shadow: 1px 4px 10px 1px #d1d1d1;
+  font-size: 18px;
+  color: #999999;
+  font-weight: 500;
+}
+
+@media (max-width: 767px) {
+  .question .wrap .mid {
+    padding: 20px;
+    position: relative;
+  }
+  .question .wrap .mid #title {
+    margin: 50px 0px 50px 30px;
+    font-size: 20px;
+    font-weight: 700;
+    color: #767676;
+  }
+  .question .wrap .mid #title::before {
+    content: "Q. ";
+    position: absolute;
+    left: 20px;
+  }
+  .question .wrap .mid .qu_btn {
+    margin: 20px auto;
+  }
+  .question .wrap .mid button {
     width: 100%;
-    height: 150px;
     border: none;
     border-radius: 10px;
     background: #fff;
     box-shadow: 1px 4px 10px 1px #d1d1d1;
     font-size: 18px;
     color: #999999;
-    font-weight: 500;
+  }
 }
-
-@media (max-width: 767px){
-    .question .wrap .mid{
-        padding: 20px;
-        position: relative;
-    }   
-    .question .wrap .mid #title {
-        margin: 50px 0px 50px 30px;
-        font-size: 20px;
-        font-weight: 700;
-        color: #767676;
-    }
-    .question .wrap .mid #title::before {
-    content: "Q. ";
-    position: absolute;
-    left: 20px;
-    }
-    .question .wrap .mid .qu_btn {
-        margin: 20px auto;
-    }
-    .question .wrap .mid button {
-        width: 100%;
-        border: none;
-        border-radius: 10px;
-        background: #fff;
-        box-shadow: 1px 4px 10px 1px #d1d1d1;
-        font-size: 18px;
-        color: #999999;
-    }
-}
-
-
-
-
-
-
-
-
 
 
 
 /* 베이스 - 매운맛 */
 .result02 {
-    background: #e36356;
-    position: relative;
+  background: #e36356;
+  position: relative;
 }
 .wrap .top {
-    width: 100%;
-    margin: auto;
-    margin-bottom: 140px;
-    padding: 15px 0px;
-    text-align: right;
+  width: 100%;
+  margin: auto;
+  margin-bottom: 140px;
+  padding: 15px 0px;
+  text-align: right;
 }
 .wrap .top i {
-    font-size: 20px;
+  font-size: 20px;
 }
 .wrap .result_main {
-    position: absolute;
-    top: 80px;
-    left: 50px;
-    right: 50px;
-    margin: auto;
-    text-align: center;
-    background: #fff;
-    border-radius: 20px;
-    box-shadow: 5px 5px 4px #9999;
+  position: absolute;
+  top: 80px;
+  left: 50px;
+  right: 50px;
+  margin: auto;
+  text-align: center;
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 5px 5px 4px #9999;
 }
 
 .result_main #category02 {
-    margin-top: 20px;
-    font-size: 20px;
-    color: #999999;
-    font-weight: 700;
+  margin-top: 20px;
+  font-size: 20px;
+  color: #999999;
+  font-weight: 700;
 }
 .result_main #img02_01 {
-    width: 100%;
-    height: 100%;
-    padding: 0px 60px;
+  width: 100%;
+  height: 100%;
+  padding: 0px 30px;
 }
 
 .result_main #animal02 {
-    font-size: 20px;
-    color: #999999;
-    font-weight: 700;
+  font-size: 20px;
+  color: #999999;
+  font-weight: 700;
 }
 .wrap .result_main .re_btn {
-    display: inline-block;
+  display: inline-block;
 }
 .wrap .result_main .re_btn button {
-    border: 0px;
-    padding: 10px 25px;
-    border-radius: 15px;
-    margin: 20px;
-    position: relative;
-    z-index: 11;
+  border: 0px;
+  padding: 10px 25px;
+  border-radius: 15px;
+  margin: 20px;
+  position: relative;
+  z-index: 11;
 }
 .wrap .result_section {
-    margin: auto;
-    border-top-left-radius: 25px;
-    border-top-right-radius: 25px;
-    background: #FAF8F2;    
-    overflow: hidden;
-    padding: 50px;
+  margin: auto;
+  border-top-left-radius: 25px;
+  border-top-right-radius: 25px;
+  background: #faf8f2;
+  overflow: hidden;
+  padding: 50px;
 }
 .wrap .result_section .est {
-    margin: auto;
+  margin: auto;
 }
 .wrap .result_section .est #est_img {
-    width: 100%;
-    height: 100%;
-    padding: 0px 40px;
-    margin: 0px auto 0px auto;
+  width: 100%;
+  height: 100%;
+  padding: 0px 40px;
+  margin: 0px auto 0px auto;
 }
-.wrap .result_section .result_explain {
-    text-align: center;
-    margin: auto;
-    position: relative;
-}
-
-
-/* 작업중 */
-
-.wrap .result_section .result_explain .result_bar {
-    overflow: hidden;
-}
-.wrap .result_section .result_explain .result_bar h5 {
-    width: 30%;
-    color: #999999;
-    float: left;
-}
-.wrap .result_section .result_explain .result_bar img {
-    width: 70%;
-    float: left;
+.wrap .result_section .result_explain02 {
+  text-align: center;
+  margin: auto;
+  position: relative;
 }
 
+.wrap .result_section .result_explain02 .result_bar {
+  display: flex;
+}
+.wrap .result_section .result_explain02 .result_bar:first-child {
+  margin-top: 20px;
+}
 
+.wrap .result_section .result_explain02 .result_bar h5 {
+  width: 20%;
+  color: #999999;
+  font-size: 18px;
+    font-weight: 700;
+    text-align: left;
+    margin: 10px;
+    margin-left: 0px;
+}
+.wrap .result_section .result_explain02 .result_bar img {
+  width: 70%;
+  height: 100%;
+  margin: 15px auto;
+}
 
 .wrap .result_section #img02_02 {
-    width: 100%;
-    height: 100%;
+  width: 100%;
+  height: 100%;
+  margin: 0 auto;
 }
 
-.result02 .wrap .result_section .result_explain #explain02_01 {
+.result02 .wrap .result_section .result_explain02 #explain02_01 {
+  text-align: left;
+  font-size: 18px;
+  color: #999999;
+  font-weight: 700;
+    margin-top: 30px;
+}
+.result02 .wrap .result_section .result_explain02 h4 {
+  padding: 0px 0px 0px 10px;
+  text-align: left;
+  font-size: 15px;
+  color: #999999;
+  font-weight: 400;
+  line-height: 25px;
+}
+.result02 .wrap .result_section .result_explain02 h4::before {
+  content: "-";
+  position: absolute;
+  left: 0px;
+}
+
+@media (max-width: 767px) {
+  .wrap .result_section .result_explain #explain02_01 {
     text-align: left;
-    font-size: 20px;
+    font-size: 18px;
     color: #999999;
     font-weight: 700;
-}
-.result02 .wrap .result_section .result_explain h4 {
-    padding: 0px 0px 0px 10px;
+      margin-top: 30px;
+  }
+  .wrap .result_section .result_explain h4 {
     text-align: left;
     font-size: 15px;
     color: #999999;
     font-weight: 400;
     line-height: 25px;
-}
-.result02 .wrap .result_section .result_explain h4::before {
-    content: "-"; position: absolute; left: 0px;
+  }
+  .wrap .result_section .result_explain h4::before {
+    content: "-";
+    position: absolute;
+    left: 13px;
+  }
 }
 
-
-@media (max-width:767px){
-    .wrap .result_section .result_explain #explain02_01 {
-        text-align: left;
-        font-size: 20px;
-        color: #999999;
-        font-weight: 700;
-    }
-    .wrap .result_section .result_explain h4 {
-        text-align: left;
-        font-size: 15px;
-        color: #999999;
-        font-weight: 400;
-        line-height: 25px;
-    }
-    .wrap .result_section .result_explain h4::before {
-    content: "-"; position: absolute; left: 13px;
-    }
-}
 .wrap .result_section .result_sub {
-    width: 50%;
-    padding: 15px;
-    float: left;
-    margin-bottom: 30px;
+  width: 50%;
+  padding: 15px;
+  float: left;
+  margin-bottom: 30px;
 }
 .wrap .result_section .result_sub h4 {
-    text-align: center;
-    font-size: 15px;
-    padding-top: 20px;
+  text-align: center;
+  font-size: 15px;
+  padding-top: 20px;
 }
 .wrap .result_section .result_sub h5 {
-    text-align: center;
-    font-size: 15px;
-    margin: 0px;
+  text-align: center;
+  font-size: 15px;
+  margin: 0px;
 }
 .wrap .result_section .result_sub img {
-    width: 100%;
-    height: 100%;
-    padding: 10px 20px;
+  width: 100%;
+  height: 100%;
+  padding: 10px 20px;
 }
 .wrap .result_section .result_sub01 {
-    background: #fff;
-    border-radius: 20px;
-    box-shadow: 5px 5px 4px #9999;
-    
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 5px 5px 4px #9999;
 }
 .wrap .result_section .result_sub02 {
-    background: #fff;
-    border-radius: 20px;
-    box-shadow: 5px 5px 4px #9999;
-    
+  background: #fff;
+  border-radius: 20px;
+  box-shadow: 5px 5px 4px #9999;
 }
 .wrap .result_section .deco {
-    display: flex;
-    margin-bottom: 30px;
+  display: flex;
+  margin-bottom: 30px;
 }
-
-
 
 
 /* 추가 - 순한맛 */
 .result {
-    background: #F9D567;
-    position: relative;
+  background: #f9d567;
+  position: relative;
 }
 .result .wrap .result_main #category {
-    margin-top: 20px;
-    font-size: 20px;
-    color: #999999;
-    font-weight: 700;
+  margin-top: 20px;
+  font-size: 20px;
+  color: #999999;
+  font-weight: 700;
 }
 .result .wrap .result_main #img_01 {
-    width: 100%;
-    height: 100%;
-    padding: 0px 30px;
+  width: 100%;
+  height: 100%;
+  padding: 0px 30px;
+}
+.result .wrap .result_main #animal {
+  font-size: 20px;
+  color: #999999;
+  font-weight: 700;
 }
 
-.result .wrap .result_main #animal {
-    font-size: 20px;
-    color: #999999;
+
+.wrap .result_section .result_explain {
+  text-align: center;
+  margin: auto;
+  position: relative;
+}
+.wrap .result_section .result_explain .result_bar {
+  display: flex;
+}
+.wrap .result_section .result_explain .result_bar:first-child {
+  margin-top: 20px;
+}
+
+.wrap .result_section .result_explain .result_bar h5 {
+  width: 20%;
+  color: #999999;
+  font-size: 18px;
     font-weight: 700;
-}
-.result .wrap .result_section .result_explain {
-    text-align: center;
-    margin: auto;
-    position: relative;
-}
-.result .wrap .result_section #img_02 {
-    width: 100%;
-    height: 100%;
-}
-.result .wrap .result_section .result_explain #explain_01 {
     text-align: left;
-    font-size: 20px;
+    margin: 10px;
+    margin-left: 0px;
+}
+.wrap .result_section .result_explain .result_bar img {
+  width: 70%;
+  height: 100%;
+  margin: 15px auto;
+}
+
+
+@media (max-width: 767px) {
+  .wrap .result_section .result_explain #explain_01 {
+    text-align: left;
+    font-size: 18px;
     color: #999999;
     font-weight: 700;
-}
-.result .wrap .result_section .result_explain h4 {
-    padding: 0px 0px 0px 10px;
+      margin-top: 30px;
+  }
+  .wrap .result_section .result_explain h4 {
     text-align: left;
     font-size: 15px;
     color: #999999;
     font-weight: 400;
     line-height: 25px;
+  }
+  .wrap .result_section .result_explain h4::before {
+    content: "-";
+    position: absolute;
+    left: 13px;
+  }
+}
+
+.result .wrap .result_section #img_02 {
+  width: 100%;
+  height: 100%;
+}
+.result .wrap .result_section .result_explain #explain_01 {
+  text-align: left;
+  font-size: 18px;
+  color: #999999;
+  font-weight: 700;
+    margin-top: 30px;
+}
+.result .wrap .result_section .result_explain h4 {
+  padding: 0px 0px 0px 10px;
+  text-align: left;
+  font-size: 15px;
+  color: #999999;
+  font-weight: 400;
+  line-height: 25px;
 }
 .result .wrap .result_section .result_explain h4::before {
-    content: "-"; position: absolute; left: 0px;
+  content: "-";
+  position: absolute;
+  left: 0px;
 }
+
