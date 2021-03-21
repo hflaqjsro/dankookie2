@@ -285,7 +285,7 @@ a:hover {
   display: flex;
 }
 .wrap .result_section .result_explain02 .result_bar:first-child {
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 .wrap .result_section .result_explain02 .result_bar h5 {
@@ -294,20 +294,14 @@ a:hover {
   font-size: 18px;
     font-weight: 700;
     text-align: left;
-    margin: 10px;
-    margin-left: 0px;
+    margin: 10px 0px;
 }
 .wrap .result_section .result_explain02 .result_bar img {
-  width: 70%;
+  width: 80%;
   height: 100%;
   margin: 15px auto;
 }
 
-.wrap .result_section #img02_02 {
-  width: 100%;
-  height: 100%;
-  margin: 0 auto;
-}
 
 .result02 .wrap .result_section .result_explain02 #explain02_01 {
   text-align: left;
@@ -331,6 +325,7 @@ a:hover {
 }
 
 @media (max-width: 767px) {
+    
   .wrap .result_section .result_explain #explain02_01 {
     text-align: left;
     font-size: 18px;
@@ -354,14 +349,14 @@ a:hover {
 
 .wrap .result_section .result_sub {
   width: 50%;
-  padding: 15px;
   float: left;
+    margin-top: 30px;
   margin-bottom: 30px;
 }
 .wrap .result_section .result_sub h4 {
   text-align: center;
   font-size: 15px;
-  padding-top: 20px;
+  padding-top: 10px;
 }
 .wrap .result_section .result_sub h5 {
   text-align: center;
@@ -371,22 +366,26 @@ a:hover {
 .wrap .result_section .result_sub img {
   width: 100%;
   height: 100%;
-  padding: 10px 20px;
+  padding: 0px 20px;
 }
 .wrap .result_section .result_sub01 {
   background: #fff;
   border-radius: 20px;
   box-shadow: 5px 5px 4px #9999;
+    margin-right: 25px;
 }
 .wrap .result_section .result_sub02 {
   background: #fff;
   border-radius: 20px;
   box-shadow: 5px 5px 4px #9999;
+    margin-left: 25px;
 }
 .wrap .result_section .deco {
   display: flex;
   margin-bottom: 30px;
 }
+
+
 
 
 /* 추가 - 순한맛 */
@@ -421,7 +420,7 @@ a:hover {
   display: flex;
 }
 .wrap .result_section .result_explain .result_bar:first-child {
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 .wrap .result_section .result_explain .result_bar h5 {
@@ -430,11 +429,10 @@ a:hover {
   font-size: 18px;
     font-weight: 700;
     text-align: left;
-    margin: 10px;
-    margin-left: 0px;
+    margin: 10px 0px;
 }
 .wrap .result_section .result_explain .result_bar img {
-  width: 70%;
+  width: 80%;
   height: 100%;
   margin: 15px auto;
 }
