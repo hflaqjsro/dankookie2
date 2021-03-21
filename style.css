@@ -356,11 +356,14 @@ a:hover {
 .wrap .result_section .result_sub h4 {
   text-align: center;
   font-size: 15px;
+  color: #999999;
   padding-top: 10px;
 }
 .wrap .result_section .result_sub h5 {
   text-align: center;
-  font-size: 15px;
+  font-size: 13px;
+  color: #999999;
+  font-weight: 300;
   margin: 0px;
 }
 .wrap .result_section .result_sub img {
@@ -372,14 +375,15 @@ a:hover {
   background: #fff;
   border-radius: 20px;
   box-shadow: 5px 5px 4px #9999;
-    margin-right: 25px;
+    margin-right: 5px;
 }
 .wrap .result_section .result_sub02 {
   background: #fff;
   border-radius: 20px;
   box-shadow: 5px 5px 4px #9999;
-    margin-left: 25px;
+    margin-left: 5px;
 }
+
 .wrap .result_section .deco {
   display: flex;
   margin-bottom: 30px;
