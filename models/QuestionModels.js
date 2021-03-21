@@ -10,7 +10,7 @@ export var qLine = {
 		title: "드디어 과제 끝! 이제 뭐하지?",
 		type: "EI",
 		A: "바로 술 마시러 간다",
-		B: "오늘은 하루 종일 못 봤던 드라마 <br>정주행이다.",
+		B: "오늘은 하루 종일 못 봤던 드라마 <br>정주행이다",
 		pro_num: "2/12",
 	},
 	3: {
@@ -51,7 +51,7 @@ export var qLine = {
 	8: {
 		title: "조원이 자료조사는 해왔으나 제대로 준비를 안한 것 같다",
 		type: "TF",
-		A: "여기 여기 다시 자료조사해서 <br>건네주세요.",
+		A: "여기 여기 다시 자료조사해서 <br>건네주세요",
 		B: "그래도 하긴 했으니까... <br>내가 찾아서 보강하자",
 		pro_num: "8/12",
 	},
@@ -117,7 +117,7 @@ export var result = {
             "걱정이 심하게 많아서 혼자 시뮬레이션 돌려보고 혼자 우울해함.",
             "팀플할 때 한 명이 손해봐야 되는 상황이면 그냥 본인이 희생함.",
             "말은 안 하지만 속으로는 누구보다 빠르게 남들과는 다르게 상대방 장단점 파악 중임.",
-            "주변 사람들 성격에 따라 내 성격도 바뀜.."
+            "주변 사람들 성격에 따라 내 성격도 바뀜."
         ],
 		explain_ab: "ESTP",
 		img_aa: "./img/ESTP.png",
@@ -138,7 +138,7 @@ export var result = {
             "규칙을 극도로 싫어함.",
             "과 생활, 동아리 생활해야 할 이유를 못 느낌. ",
             "남들처럼 평범히 사는건 싫음.",
-		    "친구들 자취방 데려오면 자취방 클라스보고 지렸다 함.."
+		    "친구들 자취방 데려오면 자취방 클라스보고 지렸다 함."
         ],
 		explain_ab: "ESFJ",
 		img_aa: "./img/ESFJ.png",
@@ -177,7 +177,7 @@ export var result = {
         explain_02: [
             "얼굴에 감정이 다 드러남.",
             "선택장애가 심해서 다 양보함.",
-            "점심메뉴. 안주 다 양보하고 팀플 역할도 다 양보해서 결국 남는 거 맡음.",
+            "점심메뉴, 안주 다 양보하고 팀플 역할도 다 양보해서 결국 남는 거 맡음.",
             "그러다 가끔씩 결단력 생기면 무조건 그거 해야 함.",
             "노는 게 싫은 건 아닌데 약속 파토 나길 바람.",
             "무리 내에게 노래 잘 부르는 친구 역할을 담당하고 있음."
@@ -243,8 +243,8 @@ export var result = {
         explain_02: [
 			"완전 성실한 모범생. 과제는 공지 받는 즉시 계획을 짜서 착착 해나감.",
 			"만나려면 며칠 전부터 약속 잡아야 됨 당일 약속 극혐해서 절대 안 나감.",
-			"축제 대 몇 시까지 주점에서 놀고 언제부터 자리 맡아놓을지 언제 술집 갈지 머리속으로 다 생각해 놓음.",
-			"익숙한 게 최고기 때문에 항상 가던 술집, 밥집만 가서 단골 가게가 몇 군데 있음.",
+			"축제 때 몇 시까지 주점에서 놀고 언제부터 자리 맡아놓을지 언제 술집 갈지 머리속으로 다 생각해 놓음.",
+			"익숙한 게 최고이기 때문에 항상 가던 술집, 밥집만 가서 단골 가게가 몇 군데 있음.",
 			"동아리나 과 내에서 임원 자리를 맡으려고 하지는 않지만 막상 맡으면 책임감 때문에 잘함.",
 		    "모르는거 생기면 선배한테 물어보면 됐던 새내기 때가 그리움."
         ],
@@ -260,7 +260,7 @@ export var result = {
 		bar_img_01: "./img/bar_02.png",
 		bar_img_02: "./img/bar_03.png",
 		bar_img_03: "./img/bar_04.png",
-		bar_img_04: "그딴거 없음.",
+		bar_img_04: "./img/bar_00.png",
         explain_02: [
             "엠티 갈 때 장보는 거에서 배제됨.(뜬금없이 옥수수콘 사자하고 그럼)",
             "어딜 가던 분위기 메이커임.",
@@ -303,7 +303,7 @@ export var result = {
 		
 		bar_img_01: "./img/bar_02.png",
 		bar_img_02: "./img/bar_01.png",
-		bar_img_03: "그딴거 없음.",
+		bar_img_03: "./img/bar_00.png",
 		bar_img_04: "./img/bar_01.png",
         explain_02: [
             "남들이 발견하지 못했던 문제점을 잘 찾아냄.",
@@ -328,7 +328,7 @@ export var result = {
 		bar_img_04: "./img/bar_05.png",
         explain_02: [
             "팀플 조장, 동아리 회장, 단과대 회장 등.. 리더 경험 최소 1회 있음.",
-            "자기 목표에 방해되는 사람은 뒤도 안 돌아보고 선그음. ",
+            "자기 목표에 방해되는 사람은 뒤도 안 돌아보고 선그음.",
             "일이 착착 진행될 때 쾌감을 느낌.",
             "사람들을 잘 이끌긴 하지만 독선적인 면 때문에 뒤에서 욕먹기도 함.",
 		    "일은 전략적, 계획적으로 해야 된다고 생각함."
@@ -342,10 +342,10 @@ export var result = {
 		animal: "'노는 게 제일 좋은 뽀로로'",
 		img_01: "./img/ESFP.png",
 		
-		bar_img_01: "그딴거 없음.",
+		bar_img_01: "./img/bar_00.png",
 		bar_img_02: "./img/bar_01.png",
 		bar_img_03: "./img/bar_04.png",
-		bar_img_04: "그딴거 없음.",
+		bar_img_04: "./img/bar_00.png",
         explain_02: [
             "공부하러 대학교 온 게 아니라 사실 놀러 왔음.",
             "공부하러 도서관 가놓고 폰만 만지다 옴.",
@@ -365,7 +365,7 @@ export var result = {
 		animal: "'판도라의 상자'",
 		img_01: "./img/ESFJ.png",
 
-		bar_img_01: "그딴거 없음.",
+		bar_img_01: "./img/bar_00.png",
 		bar_img_02: "./img/bar_01.png",
 		bar_img_03: "./img/bar_05.png",
 		bar_img_04: "./img/bar_04.png",
@@ -407,7 +407,7 @@ export var result = {
 		img_01: "./img/ESTJ.png",
 		bar_img_01: "./img/bar_01.png",
 		bar_img_02: "./img/bar_01.png",
-		bar_img_03: "그딴거 없음.",
+		bar_img_03: "./img/bar_00.png",
 		bar_img_04: "./img/bar_05.png",
 		explain_02: [
             "관종끼 있어서 팀플 역할은 무조건 발표 맡으려고 함.",
@@ -424,33 +424,35 @@ export var result = {
 		img_ba: "./img/INFJ.png",
 	},
 };
+
+
 export var result02 = {
 	INFP: {
 		animal02: "'너 자신부터 알라'",
-		img02_01: "./img/INFP.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HINFP.png",
+		bar_img02_01: "./img/redbar_02.png",
+		bar_img02_02: "./img/redbar_05.png",
+		bar_img02_03: "./img/redbar_04.png",
+		bar_img02_04: "./img/redbar_01.png",
 		explain02_02: [
-            "공감능력 좋아오지만 자기가 겪어본 일에 대해서만 공감능력 있음.",
-            "고집생기면 무조건 지 말이 법임.",    
+            "공감능력 좋아보이지만 자기가 겪어본 일에 대해서만 공감능력 있음.",
+            "고집 생기면 무조건 지 말이 법임.",    
             "자아성찰은 오지게 하는데 자기객관화는 항상 못 함.",
             "말 안 해도 자기가 원하는 걸 알아주길 바람.",
             "어쩌라는 건지 모르겠음."
         ],
         explain02_ab: "ESTJ",
-		img02_aa: "./img/ESTJ.png",
+		img02_aa: "./img/HESTJ.png",
 		explain02_bb: "ESTP",
-		img02_ba: "./img/ESTP.png"
+		img02_ba: "./img/HESTP.png"
 	},
 	INFJ: {
 		animal02: "'앞에선 웃고 뒤돌면 찌를 상'",
-		img02_01: "./img/INFJ.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HINFJ.png",
+		bar_img02_01: "./img/redbar_03.png",
+		bar_img02_02: "./img/redbar_04.png",
+		bar_img02_03: "./img/redbar_02.png",
+		bar_img02_04: "./img/redbar_04.png",
 		explain02_02: [
             "자상해보이지만 속으로는 항상 다른 생각 중임.",
             "혼자서 선 정하고 상대방이 넘으면 갑자기 손절침.",
@@ -459,75 +461,74 @@ export var result02 = {
             "사람 좋은 척 음흉한 흑막."
         ],
         explain02_ab: "ESTP",
-		img02_aa: "./img/ESTP.png",
+		img02_aa: "./img/HESTP.png",
 		explain02_bb: "ESTJ",
-		img02_ba: "./img/ESTJ.png"
+		img02_ba: "./img/HESTJ.png"
 	},
 	INTP: {
 		animal02: "'자가합리화 장인'",
-		img02_01: "./img/INTP.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HINTP.png",
+		bar_img02_01: "./img/redbar_05.png",
+		bar_img02_02: "./img/redbar_04.png",
+		bar_img02_03: "./img/redbar_02.png",
+		bar_img02_04: "./img/redbar_01.png",
 		explain02_02: [
-            "공능제임",
+            "공능제임.",
             "소통할 줄 모르고 자기 의견 틀려도 '똥이 무서워서 피하냐 더러워서 피하지'라면서 합리화함.",
-            "감정표현을 못함",
-            "깨어있는 척 오지는 방국석 키보드워리어 본인이 잠재적 천잰줄 아는데 사회성도 지능임.",
+            "감정표현을 못 함.",
+            "깨어있는 척 오지는 방구석 키보드워리어, 본인이 잠재적 천잰줄 아는데 사회성도 지능임.",
             "말할 때 요점을 못 잡고 중구난방식으로 말함."
         ],
         explain02_ab: "ESFJ",
-		img02_aa: "./img/ESFJ.png",
+		img02_aa: "./img/HESFJ.png",
 		explain02_bb: "ESFP",
-		img02_ba: "./img/ESFP.png"
+		img02_ba: "./img/HESFP.png"
 	},
 	INTJ: {
 		animal02: "'무인도에서 혼자 사는 거 추천'",
-		img02_01: "./img/INTJ.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HINTJ.png",
+		bar_img02_01: "./img/redbar_04.png",
+		bar_img02_02: "./img/redbar_03.png",
+		bar_img02_03: "./img/redbar_01.png",
+		bar_img02_04: "./img/redbar_03.png",
 		explain02_02: [
             "남한테 의견 물어보긴 하는데 그냥 형식상 물어본거. 자기랑 의견 다르면 무시함.",
             "상대가 원하는 게 위로인지 해결책인지 구분 못 함.",
             "감정을 계산하려고 함.",
             "답답하거나, 타인은 이해하지 못 하는 자신만의 세계를 자랑스러워 하며 타인이 이해 못 하는 걸 확인하려고 함. 그거 확인받고 기분 좋아함.",
-            "말뽄새부터 재수없음의 의인화 그 누구도 이해 못 하는 블랙 유머 야심차게 던졌다가 묵음처리되는 포지션."
+            "말뽄새부터 재수없음의 의인화. 그 누구도 이해 못 하는 블랙 유머 야심차게 던졌다가 묵음처리되는 포지션."
         ],
         explain02_ab: "ESFP",
-		img02_aa: "./img/ESFP.png",
+		img02_aa: "./img/HESFP.png",
 		explain02_bb: "ESFJ",
-		img02_ba: "./img/ESFJ.png"
+		img02_ba: "./img/HESFJ.png"
 	},
 	ISFP: {
 		animal02: "'친구 앞에서만 방구석 여포'",
-		img02_01: "./img/ISFP.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HISFP.png",
+		bar_img02_01: "./img/redbar_02.png",
+		bar_img02_02: "./img/redbar_02.png",
+		bar_img02_03: "./img/redbar_03.png",
+		bar_img02_04: "./img/redbar_03.png",
 		explain02_02: [
-            "바바 보이지만 사실 하는 거 하나도 없음.",
-            "하는거 하나도 없으면서 가만히 앉아서 로또 당첨같은 거만 기대함.",
-            "배려 잘하는 것 같지만 속으로는 하나부터 열까지 다 비판 중.",
-            "그래서 남은 객관적으로 잘 보는데 정작 본인은 객관적으로 못 봄.",
+            "바빠 보이지만 사실 하는 거 하나도 없음.",
+            "하는 거 하나도 없으면서 가만히 앉아서 로또 당첨같은 거만 기대함.",
+            "배려 잘하는 것 같지만 속으로는 하나부터 열까지 다 비판 중. 그래서 남은 객관적으로 잘 보는데 정작 본인은 객관적으로 못 봄.",
             "방구석 여포라는 단어가 딱 어울리는 유형",
             "예민하고 감수성 충만한 굼뱅이 얘네 절대 순한맛 아님 친해지면 팩폭 꽂고 난리남.",
-                ],
+        ],
         explain02_ab: "ENTJ",
-		img02_aa: "./img/ENTJ.png",
+		img02_aa: "./img/HENTJ.png",
 		explain02_bb: "ENTP",
-		img02_ba: "./img/ENTP.png"
+		img02_ba: "./img/HENTP.png"
 	},
 	ISFJ: {
 		animal02: "'뒷담화 할 때만 줏대생김'",
-		img02_01: "./img/ISFJ.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HISFJ.png",
+		bar_img02_01: "./img/redbar_02.png",
+		bar_img02_02: "./img/redbar_04.png",
+		bar_img02_03: "./img/redbar_04.png",
+		bar_img02_04: "./img/redbar_02.png",
 		explain02_02: [
             "소심하고 줏대 하나도 없음.",
             "배려심있고 예의있어 보이지만 본성은 개깐깐한데 참고 있는거",
@@ -536,55 +537,54 @@ export var result02 = {
             "본인이 착해서 참는다고 생각하는데 사실 남들이 나를 바라보는 시선을 신경써서 그런거임."
         ],
         explain02_ab: "ENTP",
-		img02_aa: "./img/ENTP.png",
+		img02_aa: "./img/HENTP.png",
 		explain02_bb: "ENTJ",
-		img02_ba: "./img/ENTJ.png"
+		img02_ba: "./img/HENTJ.png"
 	},
 	ISTP: {
 		animal02: "'입에청테이프 붙여야함'",
-		img02_01: "./img/ISTP.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HISTP.png",
+		bar_img02_01: "./img/redbar_05.png",
+		bar_img02_02: "./img/redbar_01.png",
+		bar_img02_03: "./img/redbar_02.png",
+		bar_img02_04: "./img/redbar_02.png",
 		explain02_02: [
-            "배려심이 뭔지 모름",
+            "배려심이 뭔지 모름.",
             "자기 할 말 하는데 급해서 남이 말하는 거 못 견딤.",
-            "그 와중에 솔직해서 선의의 거짓말 같은거 안해서 상대방 빡치게 함.",
+            "그 와중에 솔직해서 선의의 거짓말 같은거 안해 상대방을 빡치게 함.",
             "근데 자기가 상처받거나 손해 보면 난리침.",
             "충고를 해도 잘 안 받아들임."    
         ],
         explain02_ab: "ENFJ",
-		img02_aa: "./img/ENFJ.png",
+		img02_aa: "./img/HENFJ.png",
 		explain02_bb: "ENFP",
-		img02_ba: "./img/ENFP.png"
+		img02_ba: "./img/HENFP.png"
 	},
 	ISTJ: {
 		animal02: "'시대 흐름에 뒤쳐지는 1순위'",
-		img02_01: "./img/ISTJ.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HISTJ.png",
+		bar_img02_01: "./img/redbar_03.png",
+		bar_img02_02: "./img/redbar_01.png",
+		bar_img02_03: "./img/redbar_02.png",
+		bar_img02_04: "./img/redbar_05.png",
 		explain02_02: [
             "융통성 하나도 없는데 자기는 융통성 있고 객관적이라고 생각함.",
-            "한 번 배운 체계 속에서 못 벗어남.",
-            "그래서 새로운 논리를 받아들이지 못 함.",
+            "한 번 배운 체계 속에서 못 벗어남. 그래서 새로운 논리를 받아들이지 못 함.",
             "개노잼이라는 소리 자주 들음.",
             "자기 객관화를 잘 못해서 MBTI테스트하면 INTJ 나올 때도 있음."      
         ],
         explain02_ab: "ENFP",
-		img02_aa: "./img/ENFP.png",
+		img02_aa: "./img/HENFP.png",
 		explain02_bb: "ENFJ",
-		img02_ba: "./img/ENFJ.png"
+		img02_ba: "./img/HENFJ.png"
 	},
 	ENFP: {
-		animal02: "'나이는 20대인데 정신연령은 초딩보다 못함'",
-		img02_01: "./img/ENFP.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		animal02: "'나이는 20대인데 <br>정신연령은 초딩보다 못 함'",
+		img02_01: "./img/HENFP.png",
+		bar_img02_01: "./img/redbar_02.png",
+		bar_img02_02: "./img/redbar_03.png",
+		bar_img02_03: "./img/redbar_04.png",
+		bar_img02_04: "./img/bar_00.png",
 		explain02_02: [
             "애새키같다는 말을 자주 들음.",
             "근데 스스로는 자기는 성숙하고 어두운 면이 있다고 생각함. 남이 보면 걍 딱 중2병임.",
@@ -593,17 +593,17 @@ export var result02 = {
             "놀이동산 평생 이용권 끊어주고 솜사탕까지 쥐어줘야 만족할 듯."
             ],
         explain02_ab: "ISTJ",
-		img02_aa: "./img/ISTJ.png",
+		img02_aa: "./img/HISTJ.png",
 		explain02_bb: "ISTP",
-		img02_ba: "./img/ISTP.png"
+		img02_ba: "./img/HISTP.png"
 	},
 	ENFJ: {
-		animal02: "'꼬봉도 아니고 맨날 지 감정에 맞춰주길 바람'",
-		img02_01: "./img/ENFJ.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		animal02: "'꼬봉도 아니고<br>맨날 지 감정에 맞춰주길 바람'",
+		img02_01: "./img/HENFJ.png",
+		bar_img02_01: "./img/redbar_01.png",
+		bar_img02_02: "./img/redbar_02.png",
+		bar_img02_03: "./img/redbar_04.png",
+		bar_img02_04: "./img/redbar_04.png",
 		explain02_02: [
             "감정적이라 지 기분 안 좋으면 주변 사람한테 괜히 난리침.",
             "그리고 주변 사람한테 난리친 거 후회화면서 또 지 혼자 우울해 함.",
@@ -613,36 +613,35 @@ export var result02 = {
             "퍼주기만 하고 자기 몫을 못 챙김."
         ],
         explain02_ab: "ISTP",
-		img02_aa: "./img/ISTP.png",
+		img02_aa: "./img/HISTP.png",
 		explain02_bb: "ISTJ",
-		img02_ba: "./img/ISTJ.png"
+		img02_ba: "./img/HISTJ.png"
 	},
 	ENTP: {
 		animal02: "'얕은 지식으로 깝치는 아가리 파이터'",
-		img02_01: "./img/ENTP.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HENTP.png",
+		bar_img02_01: "./img/redbar_02.png",
+		bar_img02_02: "./img/redbar_01.png",
+		bar_img02_03: "./img/bar_00.png",
+		bar_img02_04: "./img/redbar_01.png",
 		explain02_02: [
             "빈 수레가 요란하다는 말이 딱 어울림.",
-            "시비터는거 좋아하는 아가리 파이터인데 제대로 아는 건 얼마 없음.",
-            "그래서 상대방이 팩트로 털면 역관광 당함.",
+            "시비터는 거 좋아하는 아가리 파이터인데 제대로 아는 건 얼마 없음. 그래서 상대방이 팩트로 털면 역관광 당함.",
             "자기 말빨과 재치를 너무 믿음. 지가 제일 똑똑한 줄 앎",
             "ㅂㄷㅂㄷ대는거 다 보이는데 혼자 쿨한척 함."    
         ],
         explain02_ab: "ISFJ",
-		img02_aa: "./img/ISFJ.png",
+		img02_aa: "./img/HISFJ.png",
 		explain02_bb: "ISFP",
-		img02_ba: "./img/ISFP.png"
+		img02_ba: "./img/HISFP.png"
 	},
 	ENTJ: {
 		animal02: "'사람이 왜 이렇게 못 됐어요..?'",
-		img02_01: "./img/ENTJ.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HENTJ.png",
+		bar_img02_01: "./img/redbar_01.png",
+		bar_img02_02: "./img/redbar_03.png",
+		bar_img02_03: "./img/redbar_01.png",
+		bar_img02_04: "./img/redbar_05.png",
 		explain02_02: [
             "평소엔 논리가 중요하다면서 지가 지적당하면 논리 개나줘버리고 부들댐.",
             "뭐가 그리 잘났는지 모르겠는데 거만의 황제임.",
@@ -650,17 +649,17 @@ export var result02 = {
             "소시오패스 거진 타노스급."
         ],
         explain02_ab: "ISFP",
-		img02_aa: "./img/ISFP.png",
+		img02_aa: "./img/HISFP.png",
 		explain02_bb: "ISFJ",
-		img02_ba: "./img/ISFJ.png"
+		img02_ba: "./img/HISFJ.png"
 	},
 	ESFP: {
-		animal02: "'SNS는 인생의 낭비가 딱 얘네 보고 말한 듯'",
-		img02_01: "./img/ESFP.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		animal02: "'SNS는 인생의 낭비가 딱 <br>얘네 보고 말한 듯'",
+		img02_01: "./img/HESFP.png",
+		bar_img02_01: "./img/bar_00.png",
+		bar_img02_02: "./img/redbar_01.png",
+		bar_img02_03: "./img/redbar_04.png",
+		bar_img02_04: "./img/bar_00.png",
 		explain02_02: [
             "SNS만 중독이면 다행일정도로 개관종.",
             "유행에 동반하지 못 하면 못 견딤.",
@@ -669,17 +668,17 @@ export var result02 = {
             "타인 평가는 잘하면서 자기가 평가 당하는 건 못 견딤."
         ],
         explain02_ab: "INTJ",
-		img02_aa: "./img/INTJ.png",
+		img02_aa: "./img/HINTJ.png",
 		explain02_bb: "INTP",
-		img02_ba: "./img/INTP.png"
+		img02_ba: "./img/HINTP.png"
 	},
 	ESFJ: {
 		animal02: "'인맥으로 비리 저지를거 같음'",
-		img02_01: "./img/ESFJ.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HESFJ.png",
+		bar_img02_01: "./img/bar_00.png",
+		bar_img02_02: "./img/redbar_01.png",
+		bar_img02_03: "./img/redbar_05.png",
+		bar_img02_04: "./img/redbar_04.png",
 		explain02_02: [
             "외로움을 못 견딤. 이 정도면 타인의 존증.",
             "능력도 없으면서 인맥으로 커버치는 경우가 종종 있음.",
@@ -688,17 +687,17 @@ export var result02 = {
             "악덕 부녀회장 상대가 거절하는데 모임 때마다 자꾸 입안에 뭐 쑤셔넣는 포지션. 이때 반응 별로면 왁왁거리는데 개피곤함 무조건 유딩마냥 빵긋 웃어줘야됨."    
         ],
         explain02_ab: "INTP",
-		img02_aa: "./img/INTP.png",
+		img02_aa: "./img/HINTP.png",
 		explain02_bb: "INTJ",
-		img02_ba: "./img/INTJ.png"
+		img02_ba: "./img/HINTJ.png"
 	},
 	ESTP: {
 		animal02: "'일찐놀이 중독'",
-		img02_01: "./img/ESTP.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HESTP.png",
+		bar_img02_01: "./img/redbar_01.png",
+		bar_img02_02: "./img/redbar_01.png",
+		bar_img02_03: "./img/redbar_02.png",
+		bar_img02_04: "./img/redbar_01.png",
 		explain02_02: [
             "자기보다 약해보이면 그냥 무시함.",
             "남 생각 안하고 말 싸가지 없게 잘 내뱉음.",
@@ -707,17 +706,17 @@ export var result02 = {
             "술마실 때마다 시비 털거나 걸리기 딱 좋은 유형."    
         ],
         explain02_ab: "INFJ",
-		img02_aa: "./img/INFJ.png",
+		img02_aa: "./img/HINFJ.png",
 		explain02_bb: "INFP",
-		img02_ba: "./img/INFP.png"
+		img02_ba: "./img/HINFP.png"
 	},
 	ESTJ: {
 		animal02: "'팀플할 때 그만좀 꺼드럭 거렸으면'",
-		img02_01: "./img/ESTJ.png",
-		bar_img02_01: "./img/bar_01.png",
-		bar_img02_02: "./img/bar_01.png",
-		bar_img02_03: "./img/bar_01.png",
-		bar_img02_04: "./img/bar_01.png",
+		img02_01: "./img/HESTJ.png",
+		bar_img02_01: "./img/redbar_01.png",
+		bar_img02_02: "./img/redbar_01.png",
+		bar_img02_03: "./img/bar_00.png",
+		bar_img02_04: "./img/redbar_05.png",
 		explain02_02: [
             "지가 무조건 맞다고 생각함.",
             "전형적인 강약약강. 윗사람한테는 싸바싸바 장난 아님.",
@@ -725,9 +724,9 @@ export var result02 = {
             "지 뜻대로 주도 안 되면 욕 박고 탈주함.",
             "근데 스스로 자기는 유능하다고 나름 따뜻한 사람이라고 착각함."
         ],
-        explain02_ab: "환상의 케미 설명",
-		img02_aa: "./img/INFP.png",
-		explain02_bb: "환장의 케미 설명",
-		img02_ba: "./img/INFJ.png"
+        explain02_ab: "INFP",
+		img02_aa: "./img/HINFP.png",
+		explain02_bb: "INFJ",
+		img02_ba: "./img/HINFJ.png"
 	},
 };
