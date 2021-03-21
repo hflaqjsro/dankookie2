@@ -100,9 +100,9 @@ export var result = {
 			"감수성이 풍부해서 망상 놀이를 자주 함.",
 			"가끔씩 강의를 듣다 말고 창밖을 쳐다보며 감상에 빠짐.",
 		],
-		explain_ab: "ESTJ",
+		explain_ab: "동기여서 다행이다",
 		img_aa: "./img/ESTJ.png",
-		explain_bb: "ESTP",
+		explain_bb: "인생 고민 하나도 없어 보임",
 		img_ba: "./img/ESTP.png",
 	},
 	INFJ: {
@@ -119,9 +119,9 @@ export var result = {
             "말은 안 하지만 속으로는 누구보다 빠르게 남들과는 다르게 상대방 장단점 파악 중임.",
             "주변 사람들 성격에 따라 내 성격도 바뀜."
         ],
-		explain_ab: "ESTP",
+		explain_ab: "인생 고민 하나도 없어 보임",
 		img_aa: "./img/ESTP.png",
-		explain_bb: "ESTJ",
+		explain_bb: "동기여서 다행이다",
 		img_ba: "./img/ESTJ.png",
 	},
 	INTP: {
@@ -140,9 +140,9 @@ export var result = {
             "남들처럼 평범히 사는건 싫음.",
 		    "친구들 자취방 데려오면 자취방 클라스보고 지렸다 함."
         ],
-		explain_ab: "ESFJ",
+		explain_ab: "판도라의 상자",
 		img_aa: "./img/ESFJ.png",
-		explain_bb: "ESFP",
+		explain_bb: "노는게 제일 좋은 뽀로로",
 		img_ba: "./img/ESFP.png",
 	},
 	INTJ: {
@@ -161,9 +161,9 @@ export var result = {
             "무표정인데 화났냐는 소리를 자주 들음.",
             "직업 뭐가 어울릴 거 같냐고 친구들한테 물어보면 10중 9는 연구원이라고 함."
         ],
-		explain_ab: "ESFP",
+		explain_ab: "노는게 제일 좋은 뽀로로",
 		img_aa: "./img/ESFP.png",
-		explain_bb: "ESFJ",
+		explain_bb: "판도라의 상자",
 		img_ba: "./img/ESFJ.png",
 	},
 	ISFP: {
@@ -182,9 +182,9 @@ export var result = {
             "노는 게 싫은 건 아닌데 약속 파토 나길 바람.",
             "무리 내에게 노래 잘 부르는 친구 역할을 담당하고 있음."
         ],
-		explain_ab: "ENTJ",
+		explain_ab: "반장 많이 해봤을거 같음",
 		img_aa: "./img/ENTJ.png",
-		explain_bb: "ENTP",
+		explain_bb: "눈 마주치면 한 대 칠거 같음",
 		img_ba: "./img/ENTP.png",
 	},
 	ISFJ: {
@@ -204,9 +204,9 @@ export var result = {
             "누가 나보고 뭐라 하면 최대한 고치려고 함.",
 		    "자기에 대한 확신이 없어서 남한테 내 가치를 인정받으려고 함."
         ],
-		explain_ab: "ENTP",
+		explain_ab: "눈 마주치면 한 대 칠거 같음",
 		img_aa: "./img/ENTP.png",
-		explain_bb: "ENTJ",
+		explain_bb: "반장 많이 해봤을거 같음",
 		img_ba: "./img/ENTJ.png",
 	},
 	ISTP: {
@@ -227,9 +227,9 @@ export var result = {
             "'옷 잘 입는 애' 축에 속함.",
             "효율성이 무엇보다 중요함. 어딜 가던 항상 최단 루트 계산해냄."
         ],
-		explain_ab: "ENFJ",
+		explain_ab: "나를 따르라!<br> 종교지도자 꿈나무",
 		img_aa: "./img/ENFJ.png",
-		explain_bb: "ENFP",
+		explain_bb: "뇌에서 필터 안 거치고<br> 일단 뱉고봄",
 		img_ba: "./img/ENFP.png",
 	},
 	ISTJ: {
@@ -248,9 +248,9 @@ export var result = {
 			"동아리나 과 내에서 임원 자리를 맡으려고 하지는 않지만 막상 맡으면 책임감 때문에 잘함.",
 		    "모르는거 생기면 선배한테 물어보면 됐던 새내기 때가 그리움."
         ],
-		explain_ab: "ENFP",
+		explain_ab: "뇌에서 필터 안 거치고<br> 일단 뱉고봄",
 		img_aa: "./img/ENFP.png",
-		explain_bb: "ENFJ",
+		explain_bb: "나를 따르라!<br> 종교지도자 꿈나무",
 		img_ba: "./img/ENFJ.png",
 	},
 	ENFP: {
@@ -269,9 +269,9 @@ export var result = {
             "팀플 할 때 떠오르는 거 있으면 일단 내뱉고 봄. 아이디어뱅크마냥 쭉쭉 나옴. 근데 99%는 조원들한테 컷당함.",
             "대체로 밝은 편인데 속으로는 우울한 면도 있음."
         ],
-		explain_ab: "ISTJ",
+		explain_ab: "계획 짜는 일은 다 내거임",
 		img_aa: "./img/ISTJ.png",
-		explain_bb: "ISTP",
+		explain_bb: "혼자서도 잘 놀아요",
 		img_ba: "./img/ISTP.png",
 	},
 	ENFJ: {
@@ -292,9 +292,9 @@ export var result = {
             "조장 맡는 거 좋아함.",
             "목표를 항상 이상적인 것과 연결 지음."
         ],
-		explain_ab: "ISTP",
+		explain_ab: "혼자서도 잘 놀아요",
 		img_aa: "./img/ISTP.png",
-		explain_bb: "ISTJ",
+		explain_bb: "계획 짜는 일은 다 내거임",
 		img_ba: "./img/ISTJ.png",
 	},
 	ENTP: {
@@ -313,9 +313,9 @@ export var result = {
             "기세다는 소리 맨날 들음. ",
 		    "불합리한 거 못 참음."
         ],
-		explain_ab: "ISFJ",
+		explain_ab: "지켜줘야 할 것 같은<br> 강아지형",
 		img_aa: "./img/ISFJ.png",
-		explain_bb: "ISFP",
+		explain_bb: "알아서 해주길 바라는<br> 결정장애",
 		img_ba: "./img/ISFP.png",
 	},
 	ENTJ: {
@@ -333,9 +333,9 @@ export var result = {
             "사람들을 잘 이끌긴 하지만 독선적인 면 때문에 뒤에서 욕먹기도 함.",
 		    "일은 전략적, 계획적으로 해야 된다고 생각함."
         ],
-		explain_ab: "ISFP",
+		explain_ab: "알아서 해주길 바라는<br> 결정장애",
 		img_aa: "./img/ISFP.png",
-		explain_bb: "ISFJ",
+		explain_bb: "지켜줘야 할 것 같은<br> 강아지형",
 		img_ba: "./img/ISFJ.png",
 	},
 	ESFP: {
@@ -356,9 +356,9 @@ export var result = {
             "자기 얘기하는 거 좋아해서 주변 사람들이 내 비밀 다 알고 있음.",
 		    "술자리에서 진지한 얘기 나오는 거 못 견딤."
         ],
-		explain_ab: "INTJ",
+		explain_ab: "혼자서도 잘 하는 척척박사",
 		img_aa: "./img/INTJ.png",
-		explain_bb: "INTP",
+		explain_bb: "나무늘보가 부러워",
 		img_ba: "./img/INTP.png",
 	},
 	ESFJ: {
@@ -376,9 +376,9 @@ export var result = {
             "그래서 의도치 않게 판도라 상자의 역할을 맡음. 내가 입 여는 날은 누구 한 명 골로 가는 날임.",
 		    "웃으면서 팩폭 날리는 거 잘함."
         ],
-		explain_ab: "INTP",
+		explain_ab: "나무늘보가 부러워",
 		img_aa: "./img/INTP.png",
-		explain_bb: "INTJ",
+		explain_bb: "혼자서도 잘 하는 척척박사",
 		img_ba: "./img/INTJ.png",
 	},
 	ESTP: {
@@ -397,9 +397,9 @@ export var result = {
             "밥 먹고 집 가기로 하고 만났는데 술 마시고, 노래방가고 머릿속에 떠오르는 거 다 하고 헤어짐.",
             "직설적이라 안친한 사람들에게 욕먹을 때가 많음."
         ],
-		explain_ab: "INFJ",
+		explain_ab: "개복치 인간 ver",
 		img_aa: "./img/INFJ.png",
-		explain_bb: "INFP",
+		explain_bb: "혼자서 청춘드리마 찍는 중",
 		img_ba: "./img/INFP.png",
 	},
 	ESTJ: {
@@ -418,9 +418,9 @@ export var result = {
             "승부욕이 강해서 다른 사람보다 뒤처지면 부들부들함.",
             "아무리 친해도 일적으로 엮이면 같은 사람 맞나 싶음. 계획에 차질이 생기거나 불이익 당하면 불같이 화냄."
         ],
-        explain_ab: "INFP",
+        explain_ab: "혼자서 청춘드리마 찍는 중",
 		img_aa: "./img/INFP.png",
-		explain_bb: "INFJ",
+		explain_bb: "개복치 인간 ver",
 		img_ba: "./img/INFJ.png",
 	},
 };
@@ -441,9 +441,9 @@ export var result02 = {
             "말 안 해도 자기가 원하는 걸 알아주길 바람.",
             "어쩌라는 건지 모르겠음."
         ],
-        explain02_ab: "ESTJ",
+        explain02_ab: "팀플할 때 그만좀 꺼드럭<br> 거렸으면",
 		img02_aa: "./img/HESTJ.png",
-		explain02_bb: "ESTP",
+		explain02_bb: "일찐놀이 중독<br> &nbsp",
 		img02_ba: "./img/HESTP.png"
 	},
 	INFJ: {
@@ -460,9 +460,9 @@ export var result02 = {
             "직접 안 묻고 계속 은근슬쩍 떠보려고 함.",
             "사람 좋은 척 음흉한 흑막."
         ],
-        explain02_ab: "ESTP",
+        explain02_ab: "일찐놀이 중독<br> &nbsp",
 		img02_aa: "./img/HESTP.png",
-		explain02_bb: "ESTJ",
+		explain02_bb: "팀플할 때 그만좀 꺼드럭<br> 거렸으면",
 		img02_ba: "./img/HESTJ.png"
 	},
 	INTP: {
@@ -479,9 +479,9 @@ export var result02 = {
             "깨어있는 척 오지는 방구석 키보드워리어, 본인이 잠재적 천잰줄 아는데 사회성도 지능임.",
             "말할 때 요점을 못 잡고 중구난방식으로 말함."
         ],
-        explain02_ab: "ESFJ",
+        explain02_ab: "인맥으로 비리 저지를거<br> 같음",
 		img02_aa: "./img/HESFJ.png",
-		explain02_bb: "ESFP",
+		explain02_bb: "SNS는 인생의 낭비가 <br>딱 얘네 보고 말한 듯",
 		img02_ba: "./img/HESFP.png"
 	},
 	INTJ: {
@@ -498,9 +498,9 @@ export var result02 = {
             "답답하거나, 타인은 이해하지 못 하는 자신만의 세계를 자랑스러워 하며 타인이 이해 못 하는 걸 확인하려고 함. 그거 확인받고 기분 좋아함.",
             "말뽄새부터 재수없음의 의인화. 그 누구도 이해 못 하는 블랙 유머 야심차게 던졌다가 묵음처리되는 포지션."
         ],
-        explain02_ab: "ESFP",
+        explain02_ab: "SNS는 인생의 낭비가 <br>딱 얘네 보고 말한 듯",
 		img02_aa: "./img/HESFP.png",
-		explain02_bb: "ESFJ",
+		explain02_bb: "인맥으로 비리 저지를거<br> 같음",
 		img02_ba: "./img/HESFJ.png"
 	},
 	ISFP: {
@@ -517,9 +517,9 @@ export var result02 = {
             "방구석 여포라는 단어가 딱 어울리는 유형",
             "예민하고 감수성 충만한 굼뱅이 얘네 절대 순한맛 아님 친해지면 팩폭 꽂고 난리남.",
         ],
-        explain02_ab: "ENTJ",
+        explain02_ab: "사람이 왜 이렇게 <br>못 됐어요..?",
 		img02_aa: "./img/HENTJ.png",
-		explain02_bb: "ENTP",
+		explain02_bb: "얕은 지식으로 깝치는 <br>아가리 파이터",
 		img02_ba: "./img/HENTP.png"
 	},
 	ISFJ: {
@@ -536,9 +536,9 @@ export var result02 = {
             "뒷담화의 늪에 바진 줏대없는 갈대",
             "본인이 착해서 참는다고 생각하는데 사실 남들이 나를 바라보는 시선을 신경써서 그런거임."
         ],
-        explain02_ab: "ENTP",
+        explain02_ab: "얕은 지식으로 깝치는 <br>아가리 파이터",
 		img02_aa: "./img/HENTP.png",
-		explain02_bb: "ENTJ",
+		explain02_bb: "사람이 왜 이렇게 <br>못 됐어요..?",
 		img02_ba: "./img/HENTJ.png"
 	},
 	ISTP: {
@@ -555,9 +555,9 @@ export var result02 = {
             "근데 자기가 상처받거나 손해 보면 난리침.",
             "충고를 해도 잘 안 받아들임."    
         ],
-        explain02_ab: "ENFJ",
+        explain02_ab: "꼬봉도 아니고 맨날지 <br>감정에 맞춰주길 바람",
 		img02_aa: "./img/HENFJ.png",
-		explain02_bb: "ENFP",
+		explain02_bb: "나이는 20대인데 <br>정신연령은 초딩보다 못 함",
 		img02_ba: "./img/HENFP.png"
 	},
 	ISTJ: {
@@ -573,13 +573,13 @@ export var result02 = {
             "개노잼이라는 소리 자주 들음.",
             "자기 객관화를 잘 못해서 MBTI테스트하면 INTJ 나올 때도 있음."      
         ],
-        explain02_ab: "ENFP",
+        explain02_ab: "나이는 20대인데 <br>정신연령은 초딩보다 못 함",
 		img02_aa: "./img/HENFP.png",
-		explain02_bb: "ENFJ",
+		explain02_bb: "꼬봉도 아니고 맨날지 <br>감정에 맞춰주길 바람",
 		img02_ba: "./img/HENFJ.png"
 	},
 	ENFP: {
-		animal02: "'나이는 20대인데 <br>정신연령은 초딩보다 못 함'",
+		animal02: "'나이는 20대인데 정신연령은 초딩보다 못 함'",
 		img02_01: "./img/HENFP.png",
 		bar_img02_01: "./img/redbar_02.png",
 		bar_img02_02: "./img/redbar_03.png",
@@ -592,9 +592,9 @@ export var result02 = {
             "멘탈 개약해서 잘 삐지고 빼애액대기 장인임.",
             "놀이동산 평생 이용권 끊어주고 솜사탕까지 쥐어줘야 만족할 듯."
             ],
-        explain02_ab: "ISTJ",
+        explain02_ab: "시대 흐름에 뒤처지는 1순위",
 		img02_aa: "./img/HISTJ.png",
-		explain02_bb: "ISTP",
+		explain02_bb: "입에 청테이프 붙여야 됨",
 		img02_ba: "./img/HISTP.png"
 	},
 	ENFJ: {
@@ -612,9 +612,9 @@ export var result02 = {
             "감정에 휘둘려서 객관적으로 판단을 못 하기 때문임.",
             "퍼주기만 하고 자기 몫을 못 챙김."
         ],
-        explain02_ab: "ISTP",
+        explain02_ab: "입에 청테이프 붙여야 됨",
 		img02_aa: "./img/HISTP.png",
-		explain02_bb: "ISTJ",
+		explain02_bb: "시대 흐름에 뒤처지는 1순위",
 		img02_ba: "./img/HISTJ.png"
 	},
 	ENTP: {
@@ -630,9 +630,9 @@ export var result02 = {
             "자기 말빨과 재치를 너무 믿음. 지가 제일 똑똑한 줄 앎",
             "ㅂㄷㅂㄷ대는거 다 보이는데 혼자 쿨한척 함."    
         ],
-        explain02_ab: "ISFJ",
+        explain02_ab: "뒷담화 할 때만 줏대생김",
 		img02_aa: "./img/HISFJ.png",
-		explain02_bb: "ISFP",
+		explain02_bb: "친구 앞에서만 방구석 여포",
 		img02_ba: "./img/HISFP.png"
 	},
 	ENTJ: {
@@ -648,9 +648,9 @@ export var result02 = {
             "다른 사람 일부로 물 맥이고 상쳐주는 경우 많음. 상처 받아도 싸다고 생각하기 때문.",
             "소시오패스 거진 타노스급."
         ],
-        explain02_ab: "ISFP",
+        explain02_ab: "친구 앞에서만 방구석 여포",
 		img02_aa: "./img/HISFP.png",
-		explain02_bb: "ISFJ",
+		explain02_bb: "뒷담화 할 때만 줏대생김",
 		img02_ba: "./img/HISFJ.png"
 	},
 	ESFP: {
@@ -667,9 +667,9 @@ export var result02 = {
             "내 인기가 제일 중요함.",
             "타인 평가는 잘하면서 자기가 평가 당하는 건 못 견딤."
         ],
-        explain02_ab: "INTJ",
+        explain02_ab: "무인도에서 혼자 사는 거 추천",
 		img02_aa: "./img/HINTJ.png",
-		explain02_bb: "INTP",
+		explain02_bb: "자기합리화 장인",
 		img02_ba: "./img/HINTP.png"
 	},
 	ESFJ: {
@@ -686,9 +686,9 @@ export var result02 = {
             "남들이 너무 신경써서 뒷담화 제조기임.",
             "악덕 부녀회장 상대가 거절하는데 모임 때마다 자꾸 입안에 뭐 쑤셔넣는 포지션. 이때 반응 별로면 왁왁거리는데 개피곤함 무조건 유딩마냥 빵긋 웃어줘야됨."    
         ],
-        explain02_ab: "INTP",
+        explain02_ab: "자기합리화 장인",
 		img02_aa: "./img/HINTP.png",
-		explain02_bb: "INTJ",
+		explain02_bb: "무인도에서 혼자 사는 거 추천",
 		img02_ba: "./img/HINTJ.png"
 	},
 	ESTP: {
@@ -705,9 +705,9 @@ export var result02 = {
             "사회적인 척 하다가 갑자기 쎄한 행동 함.",
             "술마실 때마다 시비 털거나 걸리기 딱 좋은 유형."    
         ],
-        explain02_ab: "INFJ",
+        explain02_ab: "앞에선 웃고 뒤돌면 찌를 상",
 		img02_aa: "./img/HINFJ.png",
-		explain02_bb: "INFP",
+		explain02_bb: "너 자신부터 알라",
 		img02_ba: "./img/HINFP.png"
 	},
 	ESTJ: {
@@ -724,9 +724,9 @@ export var result02 = {
             "지 뜻대로 주도 안 되면 욕 박고 탈주함.",
             "근데 스스로 자기는 유능하다고 나름 따뜻한 사람이라고 착각함."
         ],
-        explain02_ab: "INFP",
+        explain02_ab: "너 자신부터 알라",
 		img02_aa: "./img/HINFP.png",
-		explain02_bb: "INFJ",
+		explain02_bb: "앞에선 웃고 뒤돌면 찌를 상",
 		img02_ba: "./img/HINFJ.png"
 	},
 };
