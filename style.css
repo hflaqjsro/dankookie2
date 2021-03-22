@@ -206,8 +206,8 @@ a:hover {
 
 
 .loader {
-  border: 16px solid #796666; /* Light grey */
-  border-top: 16px solid #3498db; /* Blue */
+  border: 16px solid #999999; 
+  border-top: 16px solid #f9d567;
   border-radius: 50%;
   width: 120px;
   height: 120px;
