@@ -48,7 +48,8 @@ export default {
     result() {
         QuestionView.hide();
         ResultView.show();        
-        $('.loader').fadeOut(3000);
+        $('.loader').delay(1500).fadeOut();
+        $('.loading').delay(1500).fadeOut();
         var mbti = "";
         console.log(tag, 'num=13');
         (document.getElementById('EI').getAttribute('value') < 2) ? mbti+="I" : mbti+="E";
