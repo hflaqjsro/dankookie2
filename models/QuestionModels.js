@@ -102,7 +102,7 @@ export var result = {
 		],
 		explain_ab: "동기여서 다행이다 <br> &nbsp",
 		img_aa: "./img/ESTJ.png",
-		explain_bb: "인생 고민 하나도 없어 <br> 보임",
+		explain_bb: "인생 고민 하나도<br> 없어 보임",
 		img_ba: "./img/ESTP.png",
 	},
 	INFJ: {
@@ -119,7 +119,7 @@ export var result = {
             "말은 안 하지만 속으로는 누구보다 빠르게 남들과는 다르게 상대방 장단점 파악 중임.",
             "주변 사람들 성격에 따라 내 성격도 바뀜."
         ],
-		explain_ab: "인생 고민 하나도 없어<br> 보임",
+		explain_ab: "인생 고민 하나도<br> 없어 보임",
 		img_aa: "./img/ESTP.png",
 		explain_bb: "동기여서 다행이다<br> &nbsp",
 		img_ba: "./img/ESTJ.png",
