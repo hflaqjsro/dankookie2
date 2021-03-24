@@ -203,14 +203,17 @@ a:hover {
 
 
 /*결과 로딩*/
-
-
+.loading {
+  height: 2000px;
+  background-color: #fff;
+  z-index: 11;
+}
 .loader {
+  width: 120px;
+  height: 120px;
   border: 16px solid #999999; 
   border-top: 16px solid #f9d567;
   border-radius: 50%;
-  width: 120px;
-  height: 120px;
   animation: spin 2s linear infinite;
   position: fixed;
   top: 50%;
@@ -525,3 +528,20 @@ a:hover {
   left: 0px;
 }
 
+
+
+/*공유하기*/
+.result_section div button {
+  width: 100%;
+  margin-top: 30px;
+  padding: 18px 10px;
+  border-radius: 10px;
+  background: #fff;
+  font-size: 20px;
+  color: #000;
+  font-weight: bolder;
+  box-shadow: 5px 5px 4px #9999;
+}
+.result_section div .start_btn_01 {
+  border: none;
+}
