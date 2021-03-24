@@ -146,7 +146,7 @@ export var result = {
 		img_ba: "./img/ESFP.png",
 	},
 	INTJ: {
-		animal: "'혼자서도 잘 하는 척척박사'",
+		animal: "'혼자서도 잘 하는<br> 척척박사'",
 		img_01: "./img/INTJ.png",
 		
 		bar_img_01: "./img/bar_04.png",
@@ -167,7 +167,7 @@ export var result = {
 		img_ba: "./img/ESFJ.png",
 	},
 	ISFP: {
-		animal: "'알아서 해주길 바라는 결정장애'",
+		animal: "'알아서 해주길 바라는<br> 결정장애'",
 		img_01: "./img/ISFP.png",
 		
 		bar_img_01: "./img/bar_02.png",
@@ -188,7 +188,7 @@ export var result = {
 		img_ba: "./img/ENTP.png",
 	},
 	ISFJ: {
-		animal: "'지켜줘야 할 것 같은 강아지형'",
+		animal: "'지켜줘야 할 것 같은<br> 강아지형'",
 		img_01: "./img/ISFJ.png",
 		
 		bar_img_01: "./img/bar_02.png",
@@ -254,7 +254,7 @@ export var result = {
 		img_ba: "./img/ENFJ.png",
 	},
 	ENFP: {
-		animal: "'뇌에서 필터 안 거치고 일단 뱉고 봄'",
+		animal: "'뇌에서 필터 안 거치고<br> 일단 뱉고 봄'",
 		img_01: "./img/ENFP.png",
 		
 		bar_img_01: "./img/bar_02.png",
@@ -275,7 +275,7 @@ export var result = {
 		img_ba: "./img/ISTP.png",
 	},
 	ENFJ: {
-		animal: "'나를 따르라! 종교지도자 꿈나무'",
+		animal: "'나를 따르라!<br> 종교지도자 꿈나무'",
 		img_01: "./img/ENFJ.png",
 		
 		bar_img_01: "./img/bar_01.png",
@@ -300,7 +300,6 @@ export var result = {
 	ENTP: {
 		animal: "'눈 마주치면 한 대 칠 거 같음'",
 		img_01: "./img/ENTP.png",
-		
 		bar_img_01: "./img/bar_02.png",
 		bar_img_02: "./img/bar_01.png",
 		bar_img_03: "./img/bar_00.png",
@@ -339,7 +338,7 @@ export var result = {
 		img_ba: "./img/ISFJ.png",
 	},
 	ESFP: {
-		animal: "'노는 게 제일 좋은 뽀로로'",
+		animal: "'노는 게 제일 좋은<br> 뽀로로'",
 		img_01: "./img/ESFP.png",
 		
 		bar_img_01: "./img/bar_00.png",
@@ -382,7 +381,7 @@ export var result = {
 		img_ba: "./img/INTJ.png",
 	},
 	ESTP: {
-		animal: "'인생 고민 하나도 없어 보임'",
+		animal: "'인생 고민 하나도<br> 없어 보임'",
 		img_01: "./img/ESTP.png",
 		
 		bar_img_01: "./img/bar_01.png",
@@ -447,7 +446,7 @@ export var result02 = {
 		img02_ba: "./img/HESTP.png"
 	},
 	INFJ: {
-		animal02: "'앞에선 웃고 뒤돌면 찌를 상'",
+		animal02: "'앞에선 웃고 뒤돌면<br> 찌를 상'",
 		img02_01: "./img/HINFJ.png",
 		bar_img02_01: "./img/redbar_03.png",
 		bar_img02_02: "./img/redbar_04.png",
@@ -479,13 +478,13 @@ export var result02 = {
             "깨어있는 척 오지는 방구석 키보드워리어, 본인이 잠재적 천잰줄 아는데 사회성도 지능임.",
             "말할 때 요점을 못 잡고 중구난방식으로 말함."
         ],
-        explain02_ab: "인맥으로 비리 저지를거<br> 같음",
+        explain02_ab: "인맥으로<br> 비리 저지를거 같음",
 		img02_aa: "./img/HESFJ.png",
 		explain02_bb: "SNS는 인생의 낭비가 <br>딱 얘네 보고 말한 듯",
 		img02_ba: "./img/HESFP.png"
 	},
 	INTJ: {
-		animal02: "'무인도에서 혼자 사는 거 추천'",
+		animal02: "'무인도에서<br> 혼자 사는 거 추천'",
 		img02_01: "./img/HINTJ.png",
 		bar_img02_01: "./img/redbar_04.png",
 		bar_img02_02: "./img/redbar_03.png",
@@ -500,7 +499,7 @@ export var result02 = {
         ],
         explain02_ab: "SNS는 인생의 낭비가 <br>딱 얘네 보고 말한 듯",
 		img02_aa: "./img/HESFP.png",
-		explain02_bb: "인맥으로 비리 저지를거<br> 같음",
+		explain02_bb: "인맥으로<br> 비리 저지를거 같음",
 		img02_ba: "./img/HESFJ.png"
 	},
 	ISFP: {
@@ -561,7 +560,7 @@ export var result02 = {
 		img02_ba: "./img/HENFP.png"
 	},
 	ISTJ: {
-		animal02: "'시대 흐름에 뒤쳐지는 1순위'",
+		animal02: "'시대 흐름에 뒤쳐지는<br> 1순위'",
 		img02_01: "./img/HISTJ.png",
 		bar_img02_01: "./img/redbar_03.png",
 		bar_img02_02: "./img/redbar_01.png",
@@ -579,7 +578,7 @@ export var result02 = {
 		img02_ba: "./img/HENFJ.png"
 	},
 	ENFP: {
-		animal02: "'나이는 20대인데 정신연령은 초딩보다 못 함'",
+		animal02: "'나이는 20대인데<br> 정신연령은 초딩보다 못 함'",
 		img02_01: "./img/HENFP.png",
 		bar_img02_01: "./img/redbar_02.png",
 		bar_img02_02: "./img/redbar_03.png",
@@ -618,7 +617,7 @@ export var result02 = {
 		img02_ba: "./img/HISTJ.png"
 	},
 	ENTP: {
-		animal02: "'얕은 지식으로 깝치는 아가리 파이터'",
+		animal02: "'얕은 지식으로 깝치는<br> 아가리 파이터'",
 		img02_01: "./img/HENTP.png",
 		bar_img02_01: "./img/redbar_02.png",
 		bar_img02_02: "./img/redbar_01.png",
@@ -636,7 +635,7 @@ export var result02 = {
 		img02_ba: "./img/HISFP.png"
 	},
 	ENTJ: {
-		animal02: "'사람이 왜 이렇게 못 됐어요..?'",
+		animal02: "'사람이 왜 이렇게<br> 못 됐어요..?'",
 		img02_01: "./img/HENTJ.png",
 		bar_img02_01: "./img/redbar_01.png",
 		bar_img02_02: "./img/redbar_03.png",
@@ -673,7 +672,7 @@ export var result02 = {
 		img02_ba: "./img/HINTP.png"
 	},
 	ESFJ: {
-		animal02: "'인맥으로 비리 저지를거 같음'",
+		animal02: "'인맥으로 <br>비리 저지를거 같음'",
 		img02_01: "./img/HESFJ.png",
 		bar_img02_01: "./img/bar_00.png",
 		bar_img02_02: "./img/redbar_01.png",
@@ -711,7 +710,7 @@ export var result02 = {
 		img02_ba: "./img/HINFP.png"
 	},
 	ESTJ: {
-		animal02: "'팀플할 때 그만좀 꺼드럭 거렸으면'",
+		animal02: "'팀플할 때 그만좀 꺼드럭<br> 거렸으면'",
 		img02_01: "./img/HESTJ.png",
 		bar_img02_01: "./img/redbar_01.png",
 		bar_img02_02: "./img/redbar_01.png",
