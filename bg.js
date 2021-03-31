@@ -3,7 +3,7 @@ const start_img = document.querySelector('.start_img');
 
 function paintImage(imgNumber){
     const image = new Image();
-    image.src = './img/0'+(imgNumber)+'.png';
+    image.src = './img/'+(imgNumber)+'.png';
     image.classList.add("start_png");
     start_img.appendChild(image);
 }
