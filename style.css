@@ -287,6 +287,8 @@ a:hover {
   position: relative;
   z-index: 11;
     color: #999999;
+    
+  box-shadow: 5px 5px 4px #9999;
 }
 
 
