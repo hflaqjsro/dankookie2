@@ -26,5 +26,8 @@ export default {
   show() {
     this.el.style.display = "";
     return this;
-  },
+  }
+
+
+
 };
