@@ -597,7 +597,7 @@ export var result02 = {
 		img02_ba: "./img/HISTP.png"
 	},
 	ENFJ: {
-		animal02: "'꼬봉도 아니고<br>맨날 지 감정에 맞춰주길 바람'",
+		animal02: "'꼬봉도 아니고 맨날 지<br> 감정에 맞춰주길 바람'",
 		img02_01: "./img/HENFJ.png",
 		bar_img02_01: "./img/redbar_01.png",
 		bar_img02_02: "./img/redbar_02.png",
