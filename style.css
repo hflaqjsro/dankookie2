@@ -286,7 +286,8 @@ a:hover {
   margin: 15px;
   position: relative;
   z-index: 11;
-    color: #999999;
+  color: #f9d567;
+  background-color: #fff;
     
   box-shadow: 5px 5px 4px #9999;
 }
@@ -337,7 +338,7 @@ a:hover {
 .wrap .result_section .result_explain02 .result_bar img {
   width: 80%;
   height: 100%;
-  margin: 15px auto;
+  margin: 18px auto;
 }
 
 
@@ -455,6 +456,19 @@ a:hover {
     padding-bottom: 10px;
 }
 
+.result .wrap .result_main .re_btn button {
+  border: 0px;
+  padding: 10px 25px;
+  border-radius: 15px;
+  margin: 15px;
+  position: relative;
+  z-index: 11;
+  color: #e36356;
+  background-color: #fff;
+    
+  box-shadow: 5px 5px 4px #9999;
+}
+
 
 .wrap .result_section .result_explain {
   text-align: center;
@@ -479,8 +493,10 @@ a:hover {
 .wrap .result_section .result_explain .result_bar img {
   width: 80%;
   height: 100%;
-  margin: 15px auto;
+  margin: 18px auto;
 }
+
+
 
 
 @media (max-width: 767px) {
