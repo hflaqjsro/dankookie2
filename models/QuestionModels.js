@@ -440,7 +440,7 @@ export var result02 = {
             "말 안 해도 자기가 원하는 걸 알아주길 바람.",
             "어쩌라는 건지 모르겠음."
         ],
-        explain02_ab: "팀플할 때 그만좀 꺼드럭<br> 거렸으면",
+        explain02_ab: "팀플할 때 그만좀 <br>꺼드럭 거렸으면",
 		img02_aa: "./img/HESTJ.png",
 		explain02_bb: "일찐놀이 중독<br> &nbsp",
 		img02_ba: "./img/HESTP.png"
@@ -461,7 +461,7 @@ export var result02 = {
         ],
         explain02_ab: "일찐놀이 중독<br> &nbsp",
 		img02_aa: "./img/HESTP.png",
-		explain02_bb: "팀플할 때 그만좀 꺼드럭<br> 거렸으면",
+		explain02_bb: "팀플할 때 그만좀 <br>꺼드럭 거렸으면",
 		img02_ba: "./img/HESTJ.png"
 	},
 	INTP: {
